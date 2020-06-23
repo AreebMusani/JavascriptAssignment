@@ -728,17 +728,11 @@
 //     if(search.toLowerCase() == Bakery[i]){
 //         result = "available";
 //         document.write(Bakery[i] + " is <b>"+result+"</b> at index "+i+" in our bakery");
-//         break
-//      }
-//     //else{
-//     //     result = "not available";
-//     //     document.write("We are sorry. "+search+" is <b>"+result+"</b> in our bakery");
-        
-//     // }
+//         break;
+//     }
 // }
-// if(search == result){
+// if(result == "not available"){
 //     document.write("We are sorry. "+search+" is <b>"+result+"</b> in our bakery");
-
 // }
 
 // Task 8
